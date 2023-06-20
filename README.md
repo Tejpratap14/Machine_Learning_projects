@@ -20,19 +20,12 @@ Download link: https://www.kaggle.com/arshid/iris-flower-dataset/download
 
 **Libraries used**
 
-  1.pandas
-   
-   2.matplotlib
-   
+    1.pandas
+    2.matplotlib
     3.seaborn
-    
-     4.scikit-learn
-     
-      5.Algorithms
-      
-       6.Logistic Regression
-       
-         7.K-Nearest Neighbors
-         
-           8.Decision Tree
+    4.scikit-learn
+    5.Algorithms
+    6.Logistic Regression
+    7.K-Nearest Neighbors
+    8.Decision Tree
 
